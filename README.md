@@ -201,7 +201,3 @@ Enter choice: 5
 
 Sanjana Patil
 
-## License
-
-MIT
-EOF
