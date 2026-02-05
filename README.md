@@ -199,7 +199,7 @@ Enter choice: 5
 
 ## Author
 
-[Your Name]
+Sanjana Patil
 
 ## License
 
